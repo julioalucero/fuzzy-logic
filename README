@@ -1,7 +1,8 @@
 Intelligence Computational
 
-1 - Perceptron Simple
+Logica Difusa
+
+Para ver los ejercicio ver el archivo: gtp3_2010.pdf
 
 para correr el programa:
-  - posicionarse dentro de la carpeta '1-perceptron-simple-multicapa'
   - correr el comando  > ruby -I lib/ bin/runner
